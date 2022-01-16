@@ -23,7 +23,7 @@ while True:
         roku.home()
     elif user_choice == "B":
         roku.back()
-    elif user_choice == "":
+    elif user_choice == "S":
         roku.select()
     elif user_choice == "I":
         roku.info()
